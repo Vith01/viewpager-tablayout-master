@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@android:color/holo_red_dark"
+        android:textAlignment="viewEnd"
+        android:textSize="17sp"
+        android:text="\n
+ 1. Sétimo Selo (Ingmar Bergman)\n\n
+ 2. Quero Ser John Malkovich (Spike Jonze)\n\n
+ 3. Poderoso Chefão (Francis Ford Coppola)\n\n
+ 4. Os Incompreendidos (François Truffaut)\n\n
+ 5. Inside Llewyn Davis (Joel Coen, Ethan Coen)\n\n
+ 6. Onde Os Fracos Não Tem Vez (Joel Coen, Ethan Coen)\n\n
+ 7. Amor (Michael Haneke)\n\n
+ 8. Cidade de Deus (Fernando Meirelles, Kátia Lund)\n\n
+ 9. Um Homem Sério (Joel Coen, Ethan Coen)\n\n
+ 10.Os Bons Companheiros (Scorsese)\n\n
+"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>
